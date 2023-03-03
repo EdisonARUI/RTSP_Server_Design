@@ -1,0 +1,7 @@
+# ninja log v5
+28	1442	6995134456398854	CMakeFiles/Project.dir/main.cpp.obj	c5305f0e7305c11d
+5	1494	6995149097306663	CMakeFiles/Project.dir/socket_tcp_server.cpp.obj	ff622f8c99516b2b
+1496	1746	6995149099815195	Project.exe	b40334a89014a2b8
+6	419	6995282669429040	CMakeFiles/Project.dir/main.cpp.obj	f101e7787afc095c
+19	1535	6995282680582928	CMakeFiles/Project.dir/socket_tcp_server.cpp.obj	d31dd1267ae3a818
+1536	1782	6995282683004448	Project.exe	b40334a89014a2b8
